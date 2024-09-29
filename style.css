@@ -1,1 +1,19 @@
+header {
+    background-color: #008fff
+}
 
+main {
+    background-color: #cce8fd
+}
+
+footer {
+    background-color: #bdc0c2
+}
+
+header h1 {
+    font-family: Gagalin
+}
+
+main h2{
+    text-align:center;
+}
